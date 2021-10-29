@@ -86,10 +86,7 @@ end
 * Find this in **qb-core/config.lua**
 * Put this **under line 29:**
 ```lua
-QBCore.Functions.GlobalTax = function(value)
-	local tax = (value / 100 * QBConfig.Server.GlobalTax)
-	return tax
-end
+QBConfig.Server.GlobalTax = 15.0
 ```
 
 ## qb-smallresources:
