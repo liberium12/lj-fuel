@@ -13,7 +13,11 @@ lj-fuel is a modified version of LegacyFuel using PolyZones like NoPixel 3.0
 * [polyzonehelper](https://github.com/bashenga/polyzonehelper)
 * [nh-context](https://github.com/Aveeux/-nh-context)
 
-# Installation (tutorial video)
+# Installation [tutorial video](https://www.youtube.com/watch?v=O4XmUw958E4)
+
+* **IMPORTANT: Must rename ANY existing LegacyFuel exports to lj-fuel**
+* Watch [tutorial video](https://www.youtube.com/watch?v=O4XmUw958E4) [if visual guide needed]
+
 
 ## qb-target config (v3.1.2 newest isn't exporting correctly):
 * Find this in **qb-target/config**
