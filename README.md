@@ -146,6 +146,11 @@ https://user-images.githubusercontent.com/91661118/139377251-82a357e4-8ebc-43e4-
 ![qb-target pump interaction](https://user-images.githubusercontent.com/91661118/139377494-de7de1b5-b8e7-4c72-9b63-493ee34279bd.png)
 #
 
+# My CSS Edits to Dependencies
+* [qb-target](https://github.com/loljoshie/qb-target)
+* [progressbar](https://github.com/loljoshie/progressbar)
+* [nh-context](https://github.com/loljoshie/-nh-context)
+
 # Credit
 * ImpulseFPS for PolyZone and global tax idea [original version](https://github.com/ImpulseFPS/irp-fuel)
 
